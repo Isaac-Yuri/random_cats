@@ -4,3 +4,28 @@
     box-sizing: border-box;
 }
 
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+#button-random-cat {
+    color: white;
+    font-size: 1em;
+    font-weight: bold;
+    padding: 8px;
+    background-color: blue;
+    border-radius: 10px;
+    cursor: pointer;
+}
+
+#cats {
+    display: block;
+}
+
+.cat-box {
+    width: 400px;
+    height: 400px;
+}
