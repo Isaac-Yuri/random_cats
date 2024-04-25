@@ -7,19 +7,17 @@ Um amigo me enviou um Reels no Instagram de um rapaz que criou um site de TCC no
 O Random Cats é um projeto simples que permite aos usuários clicarem em um botão para ver fotos aleatórias de gatos. Utilizando a API pública do TheCatAPI.
 
 ## Foto e Link da Aplicação
-- [![Random Cats](foto_aplicacao.png)](https://isaac-yuri.github.io/random_cats/)
+[Clique aqui para ver acessar a aplicação](https://isaac-yuri.github.io/random_cats/)
+[![Random Cats](./assets/foto_aplicacao.png)](https://isaac-yuri.github.io/random_cats/)
 
 ## Tecnologias Utilizadas
 - HTML
 - CSS
 - JavaScript
-- TheCatAPI
-
-## Contribuindo
-Contribuições são bem-vindas! Sinta-se à vontade para abrir uma issue para relatar problemas ou sugerir melhorias. Se desejar contribuir diretamente, por favor, faça um fork do repositório e crie uma pull request com suas alterações.
+- [TheCatAPI](https://thecatapi.com/)
 
 ## Autor
-[Seu Nome](https://github.com/seu-usuario) - Desenvolvedor
+[Isaac Yuri](https://github.com/Isaac-Yuri)
 
 ## Licença
 Este projeto está licenciado sob a [Licença MIT](LICENSE).
